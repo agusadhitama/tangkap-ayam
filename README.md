@@ -1,4 +1,4 @@
-# 🐔 Tangkap Ayam Game
+# 🐔 CATCH THE CHICKEN GAME
 
 A simple and fun web game where users try to catch a moving chicken on the screen.
 
@@ -25,7 +25,7 @@ This project was created as a small JavaScript experiment to explore interactive
 
 ## 🚀 Live Demo
 
-https://agusadhitama.github.io/tangkap-ayam/
+https://agusadhitama.github.io/catch-the-chicken-game/
 
 ---
 
